@@ -1,4 +1,6 @@
 # GAMELATOR
+队名：青春有你coder担当  
+成员：闫羽、朱雪月  
 项目分工：caculator计算器部分（java项目）由闫羽完成；The_Game游戏部分（js项目）由朱雪月完成  
 运行须知：下载后需要用eclipse分别打开两个压缩包里的文件夹  
 运行步骤：首先需要在eclipse搭载node.js，然后编译The_Game文件，步骤为：打开cmd窗口下的该文件目录——>npm install——>npm run build——>serve -s build ——>生成本地地址  
